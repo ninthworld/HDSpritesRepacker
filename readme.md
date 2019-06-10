@@ -1,6 +1,6 @@
 # HDSpritesRepacker - Content Pack Repacker Tool
 
-This tool will allow you to repack a Content Patcher compatible content pack to work with the Stardew Valley mod [https://www.nexusmods.com/stardewvalley/mods/4024](HD Sprites v1.1+)
+This tool will allow you to repack a Content Patcher compatible content pack to work with the Stardew Valley mod [HD Sprites v1.1+](https://www.nexusmods.com/stardewvalley/mods/4024)
 
 ## Requirements
 * Windows
